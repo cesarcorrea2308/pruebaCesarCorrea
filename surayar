@@ -1,0 +1,12 @@
+<STYLE type="text/css"> 
+<!-- 
+A:link {COLOR: red; TEXT-DECORATION: none} 
+A:visited {COLOR: gray; TEXT-DECORATION: none} 
+A:active {TEXT-DECORATION: none} 
+A:hover {COLOR: blue; TEXT-DECORATION: underline} --> 
+</STYLE> 
+</p> 
+<p><a href="l1.htm">El texto que quieras.</a><br> 
+<a href="l2.htm">otro texto.</a><br> 
+<a href="l3.htm">Otro texto.</a><br> 
+</p> 
